@@ -1,5 +1,0 @@
-.env
-node_modules/
-backend/bin/
-frontend/.next/
-frontend/out/

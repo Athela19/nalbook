@@ -1,9 +1,0 @@
-.git
-.gitignore
-*.exe
-*.test
-bin/
-tmp/
-.env
-.env.*
-!.env.example
